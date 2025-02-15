@@ -3,7 +3,7 @@ const febHolidays = [
     "You are the first thought in the morning and last at night",
     "You are the best thing that has happened to me",
     "I hope we stay together forever 💕",
-    "And you keep staring me from the corner of yur pretty eyes",
+    "And yu kip stering me from d cornur of yur pretty eyes",
     "You make my life sooooo much better🥰",
     "It is impossible for me to think of a life without you",
     "Well, all 9 of yours too hehe 3:)",
